@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# VRC-LT #0
+VRChat内でLT会をやりたいなーということで、とりあえず開催してみようと言う感じでやり始めます。パイロット版として#0を開催します！
+日時: TBD(たぶん3/22 22:00 ~)
 
-You can use the [editor on GitHub](https://github.com/vrc-lt/vrc-lt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# はじめに
+## LTって？
+```ライトニングトーク（英: Lightning Talks）とはカンファレンスやフォーラムなどで行われる短いプレゼンテーションのこと。様々な形式があるが、持ち時間が5分という制約が広く共有されている。```  
+https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AF より  
+つまり5分で簡単にプレゼンすることです。スライドを使うことも多いですが、なくてもできるらしい……
+ここのあんさんが過去に発表されたスライドを公開してくださっているのでカジュアルなLTの例として参考にしてください。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://twitter.com/NoanVrc/status/1097852502945423367
 
-### Markdown
+# 発表者募集
+パイロット版では、とりあえずノンジャンルで開催します。参加者の皆さんが最近作ったものや、共有したいTipsなど、はたまた推しのゲームについてなどなど基本的にはテーマに縛りは設けませんので、ぜひご参加ください。  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 発表参加のしかた
+スライドはSpeakerDeck(https://speakerdeck.com/) にアップロードして公開してください。スライド作成にはPDFでスライド形式のドキュメントを書き出せるツールなら何でも使えますが、無料で手軽に使えるのはGoogle Slides(https://www.google.com/intl/ja_jp/slides/about/) だと思います。  
+スライドはアスペクト比4:3で作成してください。16:9のスライドの場合ワールドの都合上潰れてしまいます。
+スライドが完成したら、SpeakerDeckのアカウントを取得し、画面一番上の`Upload a Deck`からPDFをアップロードしてください。  
+アップロードが完了したら、スライド表示画面のURLとスライド枚数を主催にお伝え下さい。
 
-```markdown
-Syntax highlighted code block
+当日は順番に発表していきますが、発表順はこちらで決めさせていただきます（多分ランダムかカテゴリごとに分けるかします）
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vrc-lt/vrc-lt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 一般参加者も募集
+パイロット版は幅広いテーマの発表がされると思いますので、friendsでワールドを開き自由参加自由解散としようと思います。  
+奮ってご参加ください！
