@@ -3,7 +3,19 @@ VRChat内でLT会をやりたいなーということで、とりあえず開催
 * 日時: 3/22 22:00 ~  
 * 場所: Just-LT!(多分friends)
 
-## 発表者（3/19 23:59まで募集中）
+## 発表資料
+<script async class="speakerdeck-embed" data-id="fc156621563f4362b814450bd88d99a6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="80b068843a324df0bbd0b0d9ad03115f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="ad8477ac26ee41a6b10ee467ae1443ed" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="3266b7692a0b428088342b726ebb241d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="744ab32e293c4edd9364d74ecd07385a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="6c05029fed44474d8dcf39ca050a03a7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="ca519e77a49740aabc112fb82095723d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="07ba6df9112c495ca9be658879f69bf5" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="05e82f68633e43d39a102c7f38b4aaa0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="cc99fb1cda4a44779789f0bcdf1b11d2" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+## 発表者
 
 | 発表者（敬称略）| タイトル　| 
 | ------------- |:-------------:| 
