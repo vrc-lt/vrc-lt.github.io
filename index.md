@@ -35,6 +35,8 @@
 VRChat内でLT会をやりたいなーということで、とりあえず開催してみようと言う感じでやり始めます。パイロット版として#0を開催します！
 * 日時: 3/22 22:00 ~  
 * 場所: Just-LT!(多分friends)
+## 動画
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dEXjf6gSeP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 発表資料
 <script async class="speakerdeck-embed" data-id="fc156621563f4362b814450bd88d99a6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
