@@ -12,6 +12,8 @@
 | はる | 未定（FlutterとBLoCやってみた話？）|
 | くれはるり | 未定 |
 | サンスケ | 未定 |
+| 妹尾/テッド | 競技プログラミング関係 |
+| boxp | WebFrontでのRuntime Performanceチューニング |
 
 
 
