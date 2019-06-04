@@ -14,6 +14,8 @@
 | サンスケ | 未定 |
 | 妹尾/テッド | 競技プログラミング関係 |
 | boxp | WebFrontでのRuntime Performanceチューニング |
+| cannorin | プログラム言語の自作か型システムの話 |
+| joniburn | LTワールドのスライドシステムについて |
 
 
 
