@@ -1,23 +1,18 @@
 
-# VRC-LT #2
-濃い目にやります！
-今回はノンジャンル寄りの技術ネタ多め会として開催します。
-プログラミング、電子工作などなど、ちょっと技術よりの話をしたい方におすすめ！
-* 2019/06/14(金) 22:00~ 
-* 場所: Just-LT!(多分friends+)
-* 発表者募集中 (2019/06/12まで。10人くらい)
+# VRC-LT #3
+いろいろテーマでやります！
+* 2019/07/26(金) 22:00~ 
+* 場所: friends+
+* テーマ: ノンジャンル(よっぽどのことがなければなんでもあり)
+* 発表者募集中 (2019/07/24まで。10人くらい)
 
 | 発表者（敬称略）| タイトル　|
 | ------------- |:-------------:|
-| はる | 未定（FlutterとBLoCやってみた話？）|
-| くれはるり | 未定 |
-| サンスケ | 5分でわからせる Deep Learning! |
-| 妹尾/テッド | 競技プログラミング関係 |
-| boxp | WebFrontでのRuntime Performanceチューニング |
-| cannorin | 型推論を支える技術 |
-| joniburn | LTワールドのスライドシステムについて |
+| はる | 未定 |
 
 
+[過去の開催についてはこちら](#これまでのVRC-LT!)  
+[参加要項についてはこちら](#発表者募集)
 
 # はじめに
 ## LTって？
@@ -42,6 +37,32 @@
 奮ってご参加ください！
 
 # これまでのVRC-LT!
+
+# VRC-LT #2
+濃い目にやります！
+今回はノンジャンル寄りの技術ネタ多め会として開催します。
+プログラミング、電子工作などなど、ちょっと技術よりの話をしたい方におすすめ！
+* 2019/06/14(金) 22:00~ 
+* 場所: Just-LT!(多分friends+)
+* 発表者募集中 (2019/06/12まで。10人くらい)
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| はる | 未定（FlutterとBLoCやってみた話？）|
+| くれはるり | 未定 |
+| サンスケ | 5分でわからせる Deep Learning! |
+| 妹尾/テッド | 競技プログラミング関係 |
+| boxp | WebFrontでのRuntime Performanceチューニング |
+| cannorin | 型推論を支える技術 |
+| joniburn | LTワールドのスライドシステムについて |
+
+## 発表資料
+<script async class="speakerdeck-embed" data-id="84fd787236d24c66b9985f371eda5fec" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="ab7408e37e0c4a6ba8a1381b9951f28d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="cc6730698cf44926955e6e0cbc14c861" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="6b8646c8c5ac4454a5c1b9d4ce792492" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="4d078759c7b548aa83fb41308e91a2fe" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="a7497818e0e84d9285f0cf23fc816b63" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 # VRC-LT #1 
 * 2019/05/10(金) 22:00~ 
