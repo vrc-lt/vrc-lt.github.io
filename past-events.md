@@ -44,6 +44,14 @@
 | とときしん | VRChatでの表情ミックスのすヽめ(仮) |
 | れいにー | 関数型言語でゲーム使ってる話(仮) |
 
+## 発表資料
+<script async class="speakerdeck-embed" data-id="e87fb48147ea409d9d41f57d0c2edf2c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="f8e170ac6d3c44a5a86ed329f11236e6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="e21dd3850c3d4696a55224db65026460" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="060bbe873b694c5bb0ef26259fcd9c41" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="e552359cce194d768327d45512f57d9b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="4cb7226a870e4bf1b0159ee58f1987b8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 # VRC-LT #0
 VRChat内でLT会をやりたいなーということで、とりあえず開催してみようと言う感じでやり始めます。パイロット版として#0を開催します！
 * 日時: 3/22 22:00 ~  
