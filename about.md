@@ -4,7 +4,7 @@
 
 ## 発表参加のしかた
 スライドはSpeakerDeck([https://speakerdeck.com/](https://speakerdeck.com/)) にアップロードして公開してください。スライド作成にはPDFでスライド形式のドキュメントを書き出せるツールなら何でも使えますが、無料で手軽に使えるのはGoogle Slides([https://www.google.com/intl/ja_jp/slides/about/](https://www.google.com/intl/ja_jp/slides/about/)) だと思います。  
-スライドはアスペクト比4:3で作成してください。16:9のスライドの場合ワールドの都合上潰れてしまいます。
+スライドはアスペクト比16:9で作成してください。4:3のスライドの場合ワールドの都合上潰れてしまいます。
 スライドが完成したら、SpeakerDeckのアカウントを取得し、画面一番上の`Upload a Deck`からPDFをアップロードしてください。  
 アップロードが完了したら、スライド表示画面のURLとスライド枚数を主催にお伝え下さい。
 
