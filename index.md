@@ -13,6 +13,8 @@
 | lin_cat | 未定 |
 | cannorin | 未定 |
 | shigeki | 未定 |
+| ドッキル| 未定 |
+
 
 ### 技術の部
 
@@ -21,6 +23,8 @@
 | はる | ケチケチGKE 入門編 |
 | cannorin | 未定 |
 | boxp | 未定 |
+| テッド | 未定 |
+| sansuke05 | 未定 |
 
 
 [過去の開催についてはこちら](past-events.md)  
