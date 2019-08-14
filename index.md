@@ -24,6 +24,7 @@
 | cannorin | TidalCycles - Haskell Meets Music |
 | boxp | 未定 |
 | sansuke05 | 未定 |
+| joniburn | パンツアプリについて |
 
 
 [過去の開催についてはこちら](past-events.md)  
