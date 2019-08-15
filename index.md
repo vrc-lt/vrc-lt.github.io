@@ -23,7 +23,7 @@
 | はる | ケチケチGKE 入門編 |
 | cannorin | TidalCycles - Haskell Meets Music |
 | boxp | 未定 |
-| sansuke05 | 未定 |
+| sansuke05 | Unityでゼロからモデリングしてみた |
 | joniburn | パンツアプリについて |
 
 
