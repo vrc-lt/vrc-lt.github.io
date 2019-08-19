@@ -20,11 +20,10 @@
 
 | 発表者（敬称略）| タイトル　|
 | ------------- |:-------------:|
-| はる | ケチケチGKE 入門編 |
-| cannorin | TidalCycles - Haskell Meets Music |
-| boxp | 未定 |
-| sansuke05 | Unityでゼロからモデリングしてみた |
 | joniburn | パンツアプリについて |
+| cannorin | TidalCycles - Haskell Meets Music |
+| boxp | 趣味でGoogle Kubernetes Engineを試したら財布が薄くなったはなし |
+| はる | ケチケチGKE 入門編 |
 
 
 [過去の開催についてはこちら](past-events.md)  
