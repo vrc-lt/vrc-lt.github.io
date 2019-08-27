@@ -1,6 +1,39 @@
 
 # これまでのVRC-LT!
 
+# VRC-LT #4
+技術的なのも、趣味的なのも募集中です！
+* 2019/08/23(金) 22:00~ 
+* 場所: friends+
+* テーマ: 趣味・クリエイティブの部（趣味的なテーマやクリエイティブなテーマ) or 技術の部(技術ネタ) 
+* 発表者募集中(2019/08/21まで。10人くらい)
+
+### 趣味・クリエイティブの部
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| lin_cat | マインスイーパ5分クッキング |
+| cannorin | おうちで本格インドカレー |
+| shigeki | S4 |
+| ドッキル| ボードゲームの種類について |
+
+<script async class="speakerdeck-embed" data-id="b81c0ece18b745d3ad3c2d64c0e389f3" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="0b6233b65595440e84f35e01c8c81e65" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="130bfbad8c3145019b8788cdda72f97b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="463999077c0941d190472f53645f0061" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+### 技術の部
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| joniburn | パンツアプリについて |
+| boxp | 趣味でGoogle Kubernetes Engineを試したら財布が薄くなったはなし |
+| はる | ケチケチGKE 入門編 |
+
+<script async class="speakerdeck-embed" data-id="7b074dfc2ae540ebb456702d6329d5bf" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="08c1e3a1934744b4809254909ff42934" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="38f3f9cafb894f6e8c745f2bd47631e4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 # VRC-LT #3
 いろいろテーマでやります！
 * 2019/07/26(金) 22:00~ 
