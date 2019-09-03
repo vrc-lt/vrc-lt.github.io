@@ -6,9 +6,9 @@ gems:
 defaults:
   - scope:
       path: ""
-  values:
-    image: /assets/ogp.png
-    logo: /assets/ogp.png
+    values:
+      image: /assets/ogp.png
+      logo: /assets/ogp.png
 lang: ja_JP
 twitter:
   card: summary
