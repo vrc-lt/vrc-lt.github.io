@@ -5,3 +5,5 @@ gems:
   - jekyll-seo-tag
 image: /assets/ogp.png
 lang: ja_JP
+twitter:
+  card: summary
