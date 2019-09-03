@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: VRC-LT
 description: VRChat内でLTをします！
-image: /assets/ogp.png
 gems:
   - jekyll-seo-tag
+image: /assets/ogp.png
