@@ -3,7 +3,7 @@ title: VRC-LT
 description: VRChat内でLTをします！
 gems:
   - jekyll-seo-tag
-image: /assets/ogp.png
+logo: /assets/ogp.png
 lang: ja_JP
 twitter:
   card: summary
