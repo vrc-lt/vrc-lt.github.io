@@ -4,3 +4,4 @@ description: VRChat内でLTをします！
 gems:
   - jekyll-seo-tag
 image: /assets/ogp.png
+lang: ja_JP
