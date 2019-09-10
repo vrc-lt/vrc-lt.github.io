@@ -28,7 +28,11 @@ VRChat上でライトニングトークをする会です。
 | ------------- |:-------------:|
 | cannorin | TidalCycles - Haskell meets Music |
 | joniburn | 未定 |
+| サンスケ | 未定 |
+| テッド | IFTTTでVRCからTwitterとDiscordに投稿した話」(暫定) |
+| boxp | 未定 |
 | 募集中 | 募集中 |
+
 
 ## 発表参加はこちらから
 
