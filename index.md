@@ -20,7 +20,6 @@ VRChat上でライトニングトークをする会です。
 | kisugi | VRC-LT #４で放送した話 |
 | コーヒー豆 | ラム |
 | おにちくTRAIN | 未定 |
-| はる | トラックボールのすすめ |
 | サンスケ | キッシュちゃんパンツパッチUnityEditorの紹介 |
 | joniburn | テクスチャ改変について |
 | 募集中 | 募集中 |
@@ -29,8 +28,9 @@ VRChat上でライトニングトークをする会です。
 
 | 発表者（敬称略）| タイトル　|
 | ------------- |:-------------:|
-| cannorin | TidalCycles - Haskell meets Music |
+| はる | VRChat用締め切りカウントダウンポスターを作った話 |
 | テッド | IFTTTでVRCからTwitterとDiscordに投稿した話」(暫定) |
+| cannorin | TidalCycles - Haskell meets Music |
 | boxp | 未定 |
 | 募集中 | 募集中 |
 
