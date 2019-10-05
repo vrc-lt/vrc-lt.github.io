@@ -1,6 +1,44 @@
 
 # これまでのVRC-LT!
 
+# VRC-LT #5
+技術的なのも、趣味的なのも募集中です！
+* 2019/10/04(金) 22:00~ 
+* 場所: VRC-LT friends+
+* テーマ: 趣味・クリエイティブの部（趣味的なテーマやクリエイティブなテーマ) or 技術の部(技術ネタ) 
+* 発表者募集中(2019/10/02まで。10人くらい)
+
+アーカイブ動画: [https://youtu.be/6af3zydqk2E?t=1664](https://youtu.be/6af3zydqk2E?t=1664)
+
+### 趣味・クリエイティブの部
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| boxp | バーチャルマーケット３にポスターを貼ってみた件 |
+| kisugi | VRC-LT #４で放送した話 |
+| コーヒー豆 | ラム |
+| joniburn | テクスチャ改変について |
+| おにちくTRAIN | 未定 |
+
+### 技術の部
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| はる | VRChat用締め切りカウントダウンポスターを作った話 |
+| サンスケ | キッシュちゃんパンツパッチUnityEditorの紹介 |
+| テッド | IFTTTでVRCからTwitterとDiscordに投稿した話 |
+| cannorin | TidalCycles - Haskell meets Music |
+
+<script async class="speakerdeck-embed" data-id="2908505c8f4b442ba496f1555184210c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="9c54ea15cedd4349a4ab9efb99705550" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="99fcd8f4fd7040619f8ec4e4e4ddaf43" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="68d89040418343019e4a262fcbc90ab5" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="f77167265fb241bbaa9fdda20d14589f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<script async class="speakerdeck-embed" data-id="10a9b1cff5fe415ca3606e72c4a5f47e" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="d5744b4c60a9432c9af90ff6029d1173" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="aa9492d84d94457885993fd35cafb70c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="3874690482624f1a99d7d1efd9d353c1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 # VRC-LT #4
 技術的なのも、趣味的なのも募集中です！
 * 2019/08/23(金) 22:00~ 
