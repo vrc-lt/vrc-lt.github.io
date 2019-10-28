@@ -27,9 +27,7 @@ VRChat上でライトニングトークをする会です。
 [過去の開催についてはこちら](past-events.md)  
 
 ## 発表参加はこちらから
-<!--
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrAHEJMv8E869yw1ASGO7gJm-XEwqWk_tNymPJoNIPWKNMaQ/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
--->
 
 ## LTって？
 ```ライトニングトーク（英: Lightning Talks）とはカンファレンスやフォーラムなどで行われる短いプレゼンテーションのこと。様々な形式があるが、持ち時間が5分という制約が広く共有されている。```  
