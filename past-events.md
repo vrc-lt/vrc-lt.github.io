@@ -1,6 +1,45 @@
 
 # これまでのVRC-LT!
 
+# VRC-LT #6
+技術的なのも、趣味的なのも募集中です！
+* 11/30 22:00~
+* 場所: VRC-LT friends+
+* テーマ: 趣味・クリエイティブの部（趣味的なテーマやクリエイティブなテーマ) or 技術の部(技術ネタ) 
+* 発表者募集中(前日くらいまで。10人くらい)
+
+### 趣味・クリエイティブの部
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| Pyloricom | ”VR感覚”ってなんやねん？ |
+| はる | VRC運営へおてがみをかいたはなし |
+| もす | 簡単！不正アクセス ~インターネットにも穴はあるんだよな~ |
+
+### 技術の部
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| テッド | shaderでDDRのﾊﾟｧｰﾉｩを光らせてみた |
+| joniburn | VRCワールド軽量化 |
+| cannorin | 最高の音響 in VR |
+| てんてー | キッシュちゃんパンツパッチ |
+| サンスケ | キッシュちゃんパンツパッチUnityEditorを支える技術 |
+
+### 技術の部（現地のみセッション）
+
+| 発表者（敬称略）| タイトル　|
+| kamakiri | 最近の量子コンピュータの話 |
+
+配信アーカイブ: https://youtu.be/bq_m9ZJmcrQ
+
+<script async class="speakerdeck-embed" data-id="d5ed5fc6df2e47df9dbe5d7ab14396ba" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="dfb5f9b5ba0c487b8692f74c1d730030" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="41fceabe47fe4a0082b72c1384497c3a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="10204e38e47f4fb795f3713a13034576" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="31ebcb95dbf940a3b65acc9a9ddcc810" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="62ca7ed019034ded870ec6f7f9a671c0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="5bb89b1acea54e919ae3c8fd3375a7a3" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 # VRC-LT #5
 技術的なのも、趣味的なのも募集中です！
 * 2019/10/04(金) 22:00~ 
