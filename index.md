@@ -3,14 +3,22 @@ VRChat上でライトニングトークをする会です。
 
 # 次回開催: VRC-LT #7
 技術的なのも、趣味的なのも募集中です！
-* 日時未定
+* 3/27(Fri) 22:00~
 * 場所: VRC-LT friends+
-* テーマ: 趣味・クリエイティブの部（趣味的なテーマやクリエイティブなテーマ) or 技術の部(技術ネタ) 
+* テーマ: 大体何でもOK（技術ネタは更に歓迎）
+*今後のVRChatのアップデート等によっては延期・中止される可能性があります。*
 
+### 発表予定
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| 募集中 | 募集中 |
 
 [参加方法](about.md)
 
 [過去の開催についてはこちら](past-events.md)  
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrAHEJMv8E869yw1ASGO7gJm-XEwqWk_tNymPJoNIPWKNMaQ/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 ## LTって？
