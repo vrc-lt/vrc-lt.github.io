@@ -6,7 +6,7 @@ VRChat上でライトニングトークをする会です。
 * 3/27(Fri) 22:00~
 * 場所: VRC-LT friends+
 * テーマ: 大体何でもOK（技術ネタは更に歓迎）
-* 発表者募集:2020/03/15 23:59まで
+* 発表者募集は締め切りました
 
 *今後のVRChatのアップデート等によっては延期・中止される可能性があります。*
 
@@ -29,12 +29,11 @@ VRChat上でライトニングトークをする会です。
 | zgock999 | GPUパススルーでVMからVR |
 | はる | Google Colab つかってみた |
 | nerinu | 自作キーボードに挑戦して失敗した |
+| えれのあ | Inside the Firewall |
 
 [参加方法](about.md)
 
 [過去の開催についてはこちら](past-events.md)  
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrAHEJMv8E869yw1ASGO7gJm-XEwqWk_tNymPJoNIPWKNMaQ/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 ## LTって？
