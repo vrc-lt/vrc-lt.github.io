@@ -28,7 +28,6 @@ VRChat上でライトニングトークをする会です。
 | はる | Google Colab つかってみた |
 | ぷに | ねことはじめる関数型 |
 | zgock999 | GPUパススルーでVMからVR |
-| wraikny |「Rustでもゲームが作りたい！」みたいな話 |
 
 [参加方法](about.md)
 
