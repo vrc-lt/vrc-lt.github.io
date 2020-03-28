@@ -1,6 +1,48 @@
 
 # これまでのVRC-LT!
 
+# 次回開催: VRC-LT #7
+技術的なのも、趣味的なのも募集中です！
+* 3/27(Fri) 22:00~
+* 場所: VRC-LT friends+
+* テーマ: 大体何でもOK（技術ネタは更に歓迎）
+* 発表者募集は締め切りました
+
+*今後のVRChatのアップデート等によっては延期・中止される可能性があります。*
+
+### 発表予定
+
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| しげき | 筋トレで痩せるためには(仮) |
+| フランシス・フォン・ペルシャ | 映画のような冒険活劇「エドワード・ランディ」|
+| BOXP | Hito Hub 2.0 |
+| ジョニバーン | UDON触ってみた |
+| ---休憩1--- | 22:35まで, 押してたらスキップ |
+| kisugi | 仮想サーバのすすめ |
+| テッド | ”命名規則” を決めよう！ |
+| nerinu | 自作キーボードに挑戦して失敗した |
+| ---休憩2--- | 23:15まで, 押してたらスキップ |
+| えれのあ | Inside the Firewall |
+| はる | Google Colab つかってみた |
+| ぷに | ねことはじめる関数型 |
+| zgock999 | GPUパススルーでVMからVR |
+
+配信アーカイブ : https://youtu.be/AdQT7ZQd28M?t=568
+
+<script async class="speakerdeck-embed" data-id="1726c4f1af5c49098d83df6f37c6b8b9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="b0b4d255fdd24ed18627a4a9c686ac60" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="f8729854d1bf4fff819c0540541e5cd0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="708c9797d9e94fa8a88259cb656c3102" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="12f687a0ac03411a9097f11980e133aa" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="da2ffc961dcd4469b676548e3b245ce8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="82b09aa50a0a4413a5217589d6fe5fcf" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="5e244eb1a4864ce586c4a8aabbee3fea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="e5b3d2c2f9a3498a8f5cd53e2207fda0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="039b0b6d38ce4327b53713fef69fb0df" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="3a26d74cb414463c9c2c6475664ff6e5" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 # VRC-LT #6
 技術的なのも、趣味的なのも募集中です！
 * 11/30 22:00~
