@@ -29,7 +29,7 @@
 | ぷに | ねことはじめる関数型 |
 | zgock999 | GPUパススルーでVMからVR |
 
-配信アーカイブ : [https://youtu.be/AdQT7ZQd28M?t=568](https://youtu.be/AdQT7ZQd28M?t=568)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AdQT7ZQd28M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <script async class="speakerdeck-embed" data-id="1726c4f1af5c49098d83df6f37c6b8b9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 <script async class="speakerdeck-embed" data-id="b0b4d255fdd24ed18627a4a9c686ac60" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
