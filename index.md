@@ -20,7 +20,7 @@ VRChat上でライトニングトークをする会です。
 
 # 前回の開催: VRC-LT #7
 
-配信アーカイブ : [https://youtu.be/AdQT7ZQd28M?t=568](https://youtu.be/AdQT7ZQd28M?t=568)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AdQT7ZQd28M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [過去の開催についてはこちら](past-events.md)  
 
