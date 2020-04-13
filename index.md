@@ -14,6 +14,8 @@ VRChat上でライトニングトークをする会です。
 | 発表者（敬称略）| タイトル　|
 | ------------- |:-------------:|
 | ぷに | 数値計算の呪いとあそぼぅ！！ |
+| しげき | 痩せるためには〜食事と運動(仮) |
+| makihiro | DDoSとの戦い方 |
 | 募集中 | 募集中 |
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrAHEJMv8E869yw1ASGO7gJm-XEwqWk_tNymPJoNIPWKNMaQ/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
