@@ -3,7 +3,7 @@ VRChat上でライトニングトークをする会です。
 
 # 次回開催: VRC-LT #8
 技術的なのも、趣味的なのも募集中です！
-* 2020/5/15(金)
+* 2020/5/15(金) 22:00~
 * 場所: VRC-LT friends+
 * テーマ: 大体何でもOK（技術ネタは更に歓迎）
 * 発表者募集中:申し込み先着8人まで
@@ -13,7 +13,7 @@ VRChat上でライトニングトークをする会です。
 
 | 発表者（敬称略）| タイトル　|
 | ------------- |:-------------:|
-| 募集中 | 募集中 |
+| ぷに | 数値計算の呪いとあそぼぅ！！ |
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrAHEJMv8E869yw1ASGO7gJm-XEwqWk_tNymPJoNIPWKNMaQ/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
