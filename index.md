@@ -6,7 +6,7 @@ VRChat上でライトニングトークをする会です。
 * 2020/5/15(金) 22:00~
 * 場所: VRC-LT friends+
 * テーマ: 大体何でもOK（技術ネタは更に歓迎）
-* 発表者募集中:申し込み先着8人まで
+* 発表者募集中:申し込み先着8人まで。キャンセル待ち中
 
 
 ### 発表予定
@@ -17,6 +17,10 @@ VRChat上でライトニングトークをする会です。
 | しげき | 痩せるためには〜食事と運動(仮) |
 | makihiro | DDoSとの戦い方 |
 | 檜筍 | スポーツとVRについて |
+| BOXP | VR Overlayアプリケーションのことはじめ |
+| Joniburn | UV2で綺麗にライトベイクしよう |
+| 邪気眼 | 未定(シェーダー系？シェーダー沼入門？) |
+| はる | UnityEditor拡張でスキマをべんりに |
 | 募集中 | 募集中 |
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrAHEJMv8E869yw1ASGO7gJm-XEwqWk_tNymPJoNIPWKNMaQ/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
