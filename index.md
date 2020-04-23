@@ -21,6 +21,8 @@ VRChat上でライトニングトークをする会です。
 | Joniburn | UV2で綺麗にライトベイクしよう |
 | 邪気眼 | 未定(シェーダー系？シェーダー沼入門？) |
 | はる | UnityEditor拡張でスキマをべんりに |
+| zgock | 未定 |
+| サンスケ | 関数型言語入門してみた |
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrAHEJMv8E869yw1ASGO7gJm-XEwqWk_tNymPJoNIPWKNMaQ/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
