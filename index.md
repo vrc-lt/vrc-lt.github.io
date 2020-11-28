@@ -1,6 +1,17 @@
 VRChat上でライトニングトークをする会です。
 技術ネタもその他の趣味ネタ等も両方扱っています。
 
+# 次回開催: VRC-LT #8-alpha
+ワールドが壊れてVRC-LTが開催できなくなってからはや半年、VRCSDK3上でのゴリ押しとともにVRC-LTが帰ってきた！
+これまでの開催に比べればワールドに実装できない機能が多いものの、テスト開催的に再び動き始める……！
+* 2020/12/18 21:00 ~
+* VRChat Friend+ ワールド
+
+| 発表者（敬称略）| タイトル　|
+| ------------- |:-------------:|
+| はる | Hololensであそんだはなし |
+
+<!-- 注:8回目はもう一度発表参加していただける方に確認してから告知します。
 # 次回開催: VRC-LT #8
 技術的なのも、趣味的なのも募集中です！
 * 未定 (VRChat Build920以降でワールドが動かなくなってしまったため)
@@ -22,9 +33,9 @@ VRChat上でライトニングトークをする会です。
 | 邪気眼 | 未定(シェーダー系？シェーダー沼入門？) |
 | はる | UnityEditor拡張でスキマをべんりに |
 | zgock | 未定 |
-| サンスケ | 関数型言語入門してみた |
+| サンスケ | 関数型言語入門してみた | -->
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrAHEJMv8E869yw1ASGO7gJm-XEwqWk_tNymPJoNIPWKNMaQ/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrAHEJMv8E869yw1ASGO7gJm-XEwqWk_tNymPJoNIPWKNMaQ/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
 [参加方法](about.md)
 
