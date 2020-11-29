@@ -14,6 +14,8 @@ VRChat上でライトニングトークをする会です。
 | KOBA789 | TBD |
 | boxp | TBD |
 | zgock | TBD |
+| sansuke05 | TBD |
+| ぷに | TBD |
 
 <!-- 注:8回目はもう一度発表参加していただける方に確認してから告知します。
 # 次回開催: VRC-LT #8
