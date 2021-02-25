@@ -13,7 +13,6 @@ VRChat上でライトニングトークをする会です。
 | ひ(JackyGun) | Qiitaで会話形式やってみたい！ |
 | zgock | openSUSEデスクトップでunity開発 |
 | koba789 |  |
-| boxp |  |
 | テッド |  |
 | サンスケ | Unitypackageのリリース作業をGithub Actionsで自動化した話 |
 | kamakiri |  |
