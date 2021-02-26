@@ -12,10 +12,10 @@ VRChat上でライトニングトークをする会です。
 | はる | ご家庭向けルータを窓から投げ捨てた話 |
 | ひ(JackyGun) | Qiitaで会話形式やってみたい！ |
 | zgock | openSUSEデスクトップでunity開発 |
-| koba789 |  |
-| テッド |  |
+| koba789 | - |
+| テッド | - |
 | サンスケ | Unitypackageのリリース作業をGithub Actionsで自動化した話 |
-| kamakiri |  |
+| kamakiri | 空気を観測した話 |
 
 
 
