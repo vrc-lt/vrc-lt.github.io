@@ -20,6 +20,7 @@ VRChat上でライトニングトークをする会です。
 | サンスケ | TBD |
 | makihiro | DDoSとの戦い方|
 | ろじ | VRChatのカメラ周りについて |
+| zgock | Asset StoreのSPRING SALEで色々散財した話 |
 
 
 [参加方法](about.md)
