@@ -1,4 +1,4 @@
-# 移転しました。今後は (https://vrc-lt.org/) をご覧ください。
+# 移転しました。今後は [https://vrc-lt.org/](https://vrc-lt.org/) をご覧ください。
 
 以下は以前の内容です。
 
